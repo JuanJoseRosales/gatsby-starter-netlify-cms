@@ -11,6 +11,7 @@ WORKDIR /usr/src/app/front-end
 COPY . .
 
 # Building app
+
 RUN gatsby build
 
 # Serve the app
