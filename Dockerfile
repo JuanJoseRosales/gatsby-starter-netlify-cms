@@ -9,9 +9,8 @@ WORKDIR /usr/src/app/front-end
 
 # Copying source files
 COPY . .
-
+RUN npm install
 # Building app
-
 RUN gatsby build
 
 # Serve the app
