@@ -2,20 +2,16 @@
 templateKey: index-page
 title: Great coffee with a conscience
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Code is for Everyone!
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Kaldi
+  title: Software
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Software is more than a set of instructions or collection of data that tell the computer how to
+    perform a task. I believe that software enables us to solve problems in a creative way that could
+    improve any aspect of our life.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Being able to read and write code is a high demand ability that is becoming a primary need
 intro:
   blurbs:
     - image: /img/coffee.png
